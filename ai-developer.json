@@ -3,8 +3,8 @@
   "subtitle": "AI/ML and datasheet intelligence specialist",
   "model": "qwen-3-coder-next",
   "model-name": "Qwen 3 Coder Next",
-  "temperature": 0.15,
-  "top_p": 0.05,
+  "temperature": 0.1,
+  "top_p": 0.2,
   "enable_tools": true,
   "messages": [
     {
