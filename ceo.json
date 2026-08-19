@@ -1,11 +1,12 @@
 {
   "title": "GRAVLOC CEO",
   "subtitle": "Strategic executive and company orchestrator",
+   "model": "qwen 3.5 397b a17b",
   "model-name": "Qwen 3.5 397B A17B",
-  "model": "qwen 3.5 397b a17b",
   "temperature": 0.2,
   "top_p": 0.3,
-  "enable_tools": false,
+  "enable_tools": true,
+  "top_p": 0.05,
   "messages": [
     {
       "role": "system",
