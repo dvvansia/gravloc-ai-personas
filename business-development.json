@@ -1,7 +1,7 @@
 {
   "title": "GRAVLOC Head of Business Development",
   "subtitle": "Commercial strategy, revenue and partnerships",
-  "model": "qwen 3.5 122b a10b",
+  "model": "qwen-3.5-122b-a10b",
   "model-name": "Qwen 3.5 122B A10B",
   "temperature": 0.3,
   "top_p": 0.1,
