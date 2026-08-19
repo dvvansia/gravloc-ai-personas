@@ -1,8 +1,8 @@
 {
   "title": "GRAVLOC Marketing & Communications",
   "subtitle": "Brand, content and social media strategy",
-  "model": "qwen-3-30b-a3b-instruct",                
-  "model-name": "Qwen 3 30B A3B Instruct",
+  "model": "qwen-3-omni-30b-a3b-instruct",                
+  "model-name": "Qwen 3 Omni 30B A3B Instruct",
   "temperature": 0.35,
   "top_p": 0.1,
   "enable_tools": true,
