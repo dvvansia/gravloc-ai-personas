@@ -1,7 +1,7 @@
 {
   "title": "GRAVLOC Intern",
   "subtitle": "Research, documentation and cross-functional support",
-  "model": "gemma 4-31b",
+  "model": "gemma-4-31b",
   "model-name": "Gemma 4 31B",
   "temperature": 0.2,
   "top_p": 0.1,
