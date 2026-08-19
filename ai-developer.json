@@ -1,7 +1,7 @@
 {
   "title": "GRAVLOC AI Developer",
   "subtitle": "AI/ML and datasheet intelligence specialist",
-  "model": "qwen 3 coder next",
+  "model": "qwen-3-coder-next",
   "model-name": "Qwen 3 Coder Next",
   "temperature": 0.15,
   "top_p": 0.05,
